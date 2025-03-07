@@ -1,3 +1,9 @@
 main1
 main2
 main3
+f1
+<<<<<<< HEAD
+=======
+f2
+
+>>>>>>> 4ccd222 (dummy)
